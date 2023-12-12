@@ -1,0 +1,177 @@
+body{
+    background-color: antiquewhite;
+    margin: 0;
+}
+.it{
+    width: 90px;
+    height: 60px;
+    background-color: #fff;
+}
+.logo{
+    display: flex;
+    border-radius: 20px;   
+}
+.silkes{
+    display: flex;
+    margin-top: 5px;
+}
+.linkes{
+    margin-right: 70px;
+    text-decoration: none;
+}
+.silkes a:hover{
+    color: red;
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+    
+}
+#sh{
+    background-color:rgb(51, 110, 153);
+    margin-top: 10px;
+    color:#fff;
+}
+.from{
+    width: 500px;
+    height: 400px;
+    margin-right: 200px;
+}
+.heder__{
+    margin-top: 70px;
+    margin-left: 100px;
+    color: white;
+}
+.main__1{
+    display: flex;
+    justify-content: center;
+
+}
+.main__2{
+    border: 2px solid;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.gradus{
+    border-radius: 40px;
+}
+.header{
+    border: 2px solid;
+    height: 500px;
+    background-color:rgb(118, 12, 224);
+    border-radius: 50px;
+}
+.heder__1{
+    margin-top: 40px;
+
+}
+#sh{
+    height: 30px;
+    align-items: center;
+    margin-right: 25px;
+}
+.from{
+    border: 5px solid;
+}
+#sh{
+   margin-left: 20px; 
+   border: none;
+}
+.b{
+    width: 181px;
+    height: 44px;
+    border-radius: 25px;
+    background-color: #ff8514;
+    flex-shrink: 0;
+}
+.b:hover{
+    background-color: aquamarine;
+    margin-left: 20px;
+}
+.comp{
+    margin-top: 20px;
+}
+.section{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    border: 2px solid;
+    border-radius: 20px;
+    background-color: burlywood;
+    height: 500px;
+}
+.number{
+    margin-top: 70px;
+    margin-right: 70px;
+}
+.number1{
+     margin-top: 40px;
+     margin-left: 200px;
+}
+.gradus{
+    margin-top: 40px;
+}
+.main__2{
+    border-radius: 40px;
+}
+.but{
+    width: 181px;
+    height: 44px;
+    border-radius: 10px;
+    background-color: #14b1ff; 
+    margin-top: 15px;
+}
+.saidbar{
+    margin-top:40px;
+    border: 2px solid;
+    border-radius: -10px;
+    height: 500px;
+    background-color:aquamarine;
+}
+.i{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.p{
+    display: flex;
+    justify-content: space-around;
+}
+.h{
+    text-align: center;
+    color:red;
+}
+.gradus:hover{
+    margin: 15px 10px 5px 10px;
+}
+.footer{
+    margin-top: 40px;
+    background-color: #14b1ff;
+    border-radius: 21px;
+}
+.fut{
+    text-align: center;
+}
+.vid{
+    display: flex;
+    justify-content: space-around;
+}
+.w{
+    width:300px;
+    height:500px;
+    margin-right: 100px;
+}
+.r{
+    margin-top: 60px;
+    margin-left: 20px;
+    font-size: 20px;
+    color:white;
+}
+
+
+
+
+
+
+
